@@ -1,0 +1,13 @@
+{
+  "name": "vuejs-developer-extension-pack",
+  "displayName": "vuejs-developer-extension-pack",
+  "description": "VS Code Extensions for VueJs Developer",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": []
+}
