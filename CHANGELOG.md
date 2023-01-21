@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "vuejs-developer-extension-pack" extension pack will be documented in this file.
+All notable changes to the "VueJs Developer Extension Pack" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## 0.0.1 - 2023-01-21
 
 - Initial release

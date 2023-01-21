@@ -1,7 +1,9 @@
 {
   "name": "vuejs-developer-extension-pack",
-  "displayName": "vuejs-developer-extension-pack",
+  "displayName": "VueJs Developer Extension Pack",
   "description": "VS Code Extensions for VueJs Developer",
+  "publisher": "sumanta",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
@@ -9,5 +11,26 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": []
+  "extensionPack": [
+    "hollowtree.vue-snippets",
+    "Vue.vscode-typescript-vue-plugin",
+    "Vue.volar",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "xabikos.JavaScriptSnippets",
+    "ms-vscode.vscode-typescript-next",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extensions-pack/vuejs-developer-extension-pack.git"
+  },
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vscode-extensions-pack/vuejs-developer-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extensions-pack/vuejs-developer-extension-pack#readme"
 }
